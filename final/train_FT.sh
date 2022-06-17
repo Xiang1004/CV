@@ -1,0 +1,1 @@
+python train.py --gpu 0 --cfg rgb_only_FT --resume

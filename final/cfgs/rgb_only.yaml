@@ -1,0 +1,14 @@
+input_modality: "rgb"
+fusion_method: null
+backbone_name: "resnet50"
+
+batch_size : 1
+max_epoch : 20
+lr : 0.00001
+wd : 0.0001
+
+width: 640
+height: 480
+dataset_path: "./dataset/pupil/"
+
+best_epoch: 0

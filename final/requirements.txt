@@ -1,0 +1,9 @@
+imgviz
+tqdm
+tensorboardX 
+pandas
+opencv-python
+imutils 
+pyfastnoisesimd
+scikit-image
+pycocotools
